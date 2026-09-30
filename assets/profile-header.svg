@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+<title id="title">JaeHyun Jung — AI applications and RAG</title>
+<desc id="desc">Python, FastAPI, LangGraph, React Native. A terminal-inspired header with a retrieve, generate and verify workflow.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#151e25"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="308" rx="3" fill="url(#bg)" stroke="#28333c"/>
+<g font-family="Consolas,Menlo,monospace">
+<text x="34" y="32" font-size="13" fill="#8496a4">~/baba-ti</text><text x="1164" y="32" text-anchor="end" font-size="12" fill="#8496a4">profile / README.md</text>
+<path d="M32 48H1168M32 235H1168" stroke="#25303a"/>
+<text x="34" y="112" font-family="Segoe UI,Arial,sans-serif" font-size="45" font-weight="700" fill="#edf5fa">JaeHyun Jung</text>
+<text x="36" y="149" font-size="19" letter-spacing="3" fill="#22d3ee">AI APPLICATIONS &amp; RAG</text>
+<text x="36" y="189" font-size="15" fill="#a1b1bf">Python / FastAPI / LangGraph / React Native</text>
+<path d="M762 79V209" stroke="#28333c" stroke-dasharray="3 6"/>
+<g stroke="#23505c" fill="none"><path d="M810 146L938 92L1070 146L938 201Z"/><path d="M810 146H1070" stroke-dasharray="4 6"/></g>
+<g font-size="12" text-anchor="middle">
+<rect x="783" y="127" width="74" height="36" rx="4" fill="#101b24" stroke="#22d3ee"/><text x="820" y="150" fill="#22d3ee">query</text>
+<circle cx="938" cy="92" r="7" fill="#101b24" stroke="#22d3ee"/><text x="938" y="73" fill="#a1b1bf">retrieve</text>
+<rect x="1038" y="127" width="90" height="36" rx="4" fill="#101b24" stroke="#6ee7b7"/><text x="1083" y="150" fill="#6ee7b7">generate</text>
+<circle cx="938" cy="201" r="7" fill="#101b24" stroke="#6ee7b7"/><text x="988" y="205" fill="#a1b1bf">verify</text>
+<circle r="3" fill="#22d3ee"><animateMotion dur="7s" repeatCount="indefinite" path="M857 146L938 92L1038 146L938 201L857 146"/></circle>
+</g>
+<text x="35" y="277" font-size="16" fill="#22d3ee">&gt;</text><text x="58" y="277" font-size="15" fill="#a1b1bf">Building apps. Learning retrieval. Checking the evidence.</text>
+<rect x="1137" y="260" width="9" height="20" fill="#22d3ee"><animate attributeName="opacity" values="1;1;0;0" dur="1.6s" repeatCount="indefinite"/></rect>
+</g></svg>
+
