@@ -8,8 +8,7 @@
 
 | PERIOD | TITLE | SUBJECT |
 | :--- | :--- | :--- |
-| 2024.03 
-- 2025. 02| 인턴 | D-Visual 화상회의 서비스 및 RPM 앱 기획,개발 |
+| 2024.03 - 2025. 02 | 인턴 | D-Visual 화상회의 서비스 및 RPM 앱 기획,개발 |
 | 계명대학교 ISIP 연구실 | 연구생 | NeRF, 3D Gaussian Splatting 및 영상 처리 연구 |
 
 ### Projects
