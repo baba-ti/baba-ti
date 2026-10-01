@@ -6,16 +6,17 @@
 
 ### Experience
 
-| 소속 | 활동 | 주요 내용 |
+| PERIOD | TITLE | SUBJECT |
 | :--- | :--- | :--- |
-| 다이브 | 인턴 | D-Visual 화상회의 서비스 및 RPM 앱 기획·개발 |
-| 계명대학교 ISIP 연구실 | 연구 참여 | NeRF, 3D Gaussian Splatting 및 영상 처리 연구 |
+| 2024.03 
+- 2025. 02| 인턴 | D-Visual 화상회의 서비스 및 RPM 앱 기획,개발 |
+| 계명대학교 ISIP 연구실 | 연구생 | NeRF, 3D Gaussian Splatting 및 영상 처리 연구 |
 
 ### Projects
 
 | 프로젝트 | 주요 내용 | 사용 기술 |
 | :--- | :--- | :--- |
-| [FOODIEA Remaster](https://github.com/baba-ti/FOODIEA_remaster) | 날씨·취향·보유 재료 기반 음식 추천, 레시피 웹 검색 및 출처 URL 검증 | React Native, Expo, FastAPI, LangGraph, OpenAI API |
+| [FOODIEA Remaster](https://github.com/baba-ti/FOODIEA_remaster) | 날씨·취향·보유 재료 기반 음식 추천, 레시피 검색  | React Native, Expo, FastAPI, LangGraph, OpenAI API |
 | [FOODIEA](https://github.com/KMUHACKER/FOODIEA) | 식재료 사진 기반 레시피 탐색 서비스 기획·개발 | React Native, Node.js, Flask, YOLO, SQL |
 | [노랑로당](https://github.com/hrgd-CDC/hg-CDC-team) | 미등록 경로당 발굴과 시설 점검 서비스 설계 · 2024 해커그라운드 해커톤 | 팀 프로젝트 |
 | Adventure Design | 무인 서빙 로봇 팀장 · 하드웨어, 주행 코드 및 경기장 설계 참여 | 로봇 설계·제어 |
