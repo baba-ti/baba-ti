@@ -14,7 +14,7 @@
 
 <br />
 
-### Experience
+<p align="center"> ### Experience </p>
 
 <div align="center">
   
