@@ -20,26 +20,19 @@
 | [노랑로당](https://github.com/hrgd-CDC/hg-CDC-team) | 미등록 경로당 발굴과 시설 점검 서비스 설계 · 2024 해커그라운드 해커톤 | 팀 프로젝트 |
 | Adventure Design | 무인 서빙 로봇 팀장 · 하드웨어, 주행 코드 및 경기장 설계 참여 | 로봇 설계·제어 |
 
-<h2 align="center">🛠️ Tech Stacks</h2>
+<h2 align="center">🛠️ Skill</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&amp;logo=expo&amp;logoColor=white" alt="Expo" />
-  <br />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" />
-  <br />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&amp;logo=langgraph&amp;logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI API" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" />
 </p>
-
 <h2 align="center">👨‍💻 Contact me</h2>
 
 <p align="center">
   <a href="https://www.notion.so/783b289cfc0a48318b549e98fc6acf06"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&amp;logo=notion&amp;logoColor=white" alt="Notion 포트폴리오" /></a>
   <a href="mailto:jjh123456744@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="이메일 보내기" /></a>
 </p>
+
