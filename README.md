@@ -17,10 +17,12 @@
 ### Experience
 
 <p align="center">
+  
 | PERIOD | TITLE | SUBJECT |
 | :--- | :--- | :--- |
 | 2024.03 - 2025.02 | ISIP 학부연구생 | NeRF, 3D Gaussian Splatting 및 영상 처리 연구 |
 | 2021.03 - 2021.06 | DAIB 인턴 | D-Visual 화상회의 서비스 및 블록체인 RPM 앱 기획,개발 |
+
 </p>
 
 <h2 align="center">🛠️ Skill</h2>
